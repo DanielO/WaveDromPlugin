@@ -12,7 +12,7 @@
 |  Version: | 9772 (2010-10-27) |
 |  Change&nbsp;History: | <!-- versions below in reverse order -->&nbsp; |
 |  01 05 2018 (1.0) | First version |
-|  Home: | http://foswiki.org/Extensions/%TOPIC% |
+|  Home: | https://github.com/DanielO/WaveDromPlugin |
 |  Support: | http://foswiki.org/Support/%TOPIC% |
 
 
