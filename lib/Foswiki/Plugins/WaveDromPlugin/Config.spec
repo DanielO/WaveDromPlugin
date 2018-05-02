@@ -1,0 +1,3 @@
+# ---+ Extensions
+# ---++ WaveDromPlugin
+1;
